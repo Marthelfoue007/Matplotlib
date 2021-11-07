@@ -3,6 +3,6 @@
 Contents
 - Balkendiagramm
 - Histogramm
-- Kreisgramm
+- Kreisdiagramm
 - Tortendiagramm
 - Box und Whiskers-Diagramm
