@@ -1,4 +1,5 @@
 # Matplotlib
+Anwendung Bibliotheken  matplotlib.pyplot, numpy, pandas
 
 Contents
 - Balkendiagramm
